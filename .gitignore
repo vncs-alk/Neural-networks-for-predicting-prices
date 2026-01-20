@@ -1,0 +1,28 @@
+# --- Python e Ambientes ---
+__pycache__/
+*.pyc
+.venv/
+venv/
+env/
+.Python
+
+# --- Jupyter Notebooks ---
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
+
+# --- Variáveis de Ambiente e Chaves (CRÍTICO) ---
+.env
+.env.local
+config.py
+secrets.json
+
+# --- Dados (Opcional: descomente se não quiser subir os dados) ---
+# *.parquet
+# *.csv
+# *.xlsx
+
+# --- VS Code ---
+.vscode/
+
+# --- Logs ---
+*.log
