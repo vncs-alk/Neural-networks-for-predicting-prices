@@ -22,7 +22,7 @@ Utilizamos uma arquitetura de rede neural recorrente (LSTM) para aprender depend
 
 ### Pré-requisitos
 
-1. Clone o repositório e entre na pasta:
+Clone o repositório e entre na pasta:
    ```bash
-   git clone [https://github.com/vncs-alk/Neural-networks-for-predicting-prices.git](https://github.com/vncs-alk/Neural-networks-for-predicting-prices.git)
-   cd requirements.txt
+    git clone [https://github.com/vncs-alk/Neural-networks-for-predicting-prices.git](https://github.com/vncs-alk/Neural-networks-for-predicting-prices.git)
+    cd Neural-networks-for-predicting-prices
